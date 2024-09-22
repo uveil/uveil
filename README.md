@@ -31,6 +31,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/insp3ctr/insp3ctr/output/snake.svg" alt="Snake animation" />
-
 ###
