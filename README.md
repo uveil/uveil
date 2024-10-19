@@ -8,9 +8,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/insp3ctr/count.svg?"  />
-</div>
-
-###
